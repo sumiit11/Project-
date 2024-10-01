@@ -40,5 +40,5 @@ After create Autoscaling----------------------------
 After create launch Configuration----------------------------
 Create target group---------------------------------
 Attach to a new load balancer----------------------------------
-Then a create a databses easily..............................# Project-
+Then create a databses ..............................# Project-
 Deploying a multitier website in ec2
